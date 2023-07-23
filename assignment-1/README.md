@@ -11,7 +11,7 @@
 事前にnode.jsをインストールしてください
 https://nodejs.org/ja/download/
 ```
-npm run install
+npm install
 ```
 
 ## テストの実行方法
